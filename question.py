@@ -1,4 +1,3 @@
-print("Hello, world!")
 def longest_substring_without_duplicates(s):
     start = 0
     max_len = 0
