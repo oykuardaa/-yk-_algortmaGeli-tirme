@@ -1,1 +1,1 @@
-# AlgoritmaG Repository.This repository includes 'Hello world' program written in Python.
+# AlgoritmaG Repository This repository includes 'Hello world' code and solution of problem. Bugünkü verilen soru ve yapılması gereken görev için python bilgim yetersiz kaldı ama araştıma ve denemelerle uygun çözümü bulduğumu düşünüyorum. Tam olarak Python ile bu şekilde alıştırma ya da soru çözümü hiç yapmamıştım, istatistik öğrencisi olarak veri setleri ile projeler yaptığım için bu tarz sorulara kendim direkt cevap bulmakta zorlanacağımı düşünüyorum. Teşekkürler.
